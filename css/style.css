@@ -31,3 +31,9 @@ body {
 .nav-item{
     padding: 5;
 }
+.slidephoto{
+    height: 600px;
+}
+.slidename{
+    color: black;
+}
