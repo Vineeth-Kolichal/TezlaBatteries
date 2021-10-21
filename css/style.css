@@ -1,0 +1,33 @@
+.navcolor{
+    background: #550191;
+    opacity: 0.8;
+}
+.content{
+    background: #abacf0;
+    height: 600px;
+}
+body {
+    margin: 0;
+    font-family: var(--bs-body-font-family);
+    font-size: var(--bs-body-font-size);
+    font-weight: var(--bs-body-font-weight);
+    line-height: var(--bs-body-line-height);
+    color: var(--bs-body-color);
+    text-align: var(--bs-body-text-align);
+    background-color: #abacf0;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+}
+#slide{
+    width: 1200px;
+}
+#id{
+    border-radius: 10px;
+    border-color: black;
+}
+.navcontent{
+    opacity: 1;
+}
+.nav-item{
+    padding: 5;
+}
